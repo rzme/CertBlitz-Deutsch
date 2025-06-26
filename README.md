@@ -1,5 +1,7 @@
 # CertBlitz
 
+**Languages:** 🇺🇸 [English](https://github.com/rzme/CertBlitz-English) • 🇷🇺 [Русский](https://github.com/rzme/CertBlitz-Russian) • 🇩🇪 [Deutsch](https://github.com/rzme/CertBlitz-Deutsch)
+
 Automatisierte SSL-Zertifikat-Einrichtung ohne Konfigurationsdateien-Kopfschmerzen.
 
 ## Was macht es
